@@ -3,7 +3,7 @@
 
 <h1> <img src="https://media.giphy.com/media/tJU72w9lPzUPe/giphy.gif" width="40" height="35"></h1>
 
-<img align='right' src="/pp.jpeg" width="400">
+<img align='right' src="/me.jpg" width="400">
 
 ![](https://komarev.com/ghpvc/?username=nimishbongale&style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BongaleNimish?style=social)](https://twitter.com/developwithma)
