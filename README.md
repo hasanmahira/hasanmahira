@@ -5,10 +5,9 @@
 
 <img align='right' src="/me.jpg" width="400">
 
-![](https://komarev.com/ghpvc/?username=nimishbongale&style=flat-square)
-[![Twitter Follow](https://img.shields.io/twitter/follow/BongaleNimish?style=social)](https://twitter.com/developwithma)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNOo9W4dFiez2mteDzUYIiA?style=social)](https://www.youtube.com/channel/UCNOo9W4dFiez2mteDzUYIiA)
-[![GitHub followers](https://img.shields.io/github/followers/nimishbongale?style=social)](https://github.com/nimishbongale)
+![](https://komarev.com/ghpvc/?username=hasanmahira&style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/developwithma?style=social)](https://twitter.com/developwithma)
+[![GitHub followers](https://img.shields.io/github/followers/hasanmahira?style=social)](https://github.com/hasanmahira)
 
 I'm currently a Full Stack Developer at inavitas I've completed my bachelors and master at Hacettepe Uni, Turkey. Here's a peek at my professional life timeline!
 
