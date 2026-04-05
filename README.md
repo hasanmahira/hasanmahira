@@ -1,91 +1,72 @@
 # Hi there 👋 I'm Hasan Mahir ATEŞ (Mahir)
 
-<img align='right' src="/me.jpg" width="350">
+<img align='right' src="/me.jpg" width="350" alt="Hasan Mahir Ates">
 
-### Full-Stack Developer & Game Maker
+### Senior Software Engineer & Backend Architect | AI & Microservices
 
 ![](https://komarev.com/ghpvc/?username=hasanmahira&style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/developwithma?style=social)](https://twitter.com/developwithma)
-[![GitHub followers](https://img.shields.io/github/followers/hasanmahira?style=social)](https://github.com/hasanmahira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/hasan-mahir-ates/)
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** at [inavitas](https://www.inavitas.com/), specializing in technical documentation and front-end development. I completed both my bachelor's and master's degrees at Hacettepe University, Turkey.
+I'm a **Founding Senior Software Engineer & Backend Architect**, specializing in building high-scale SaaS ecosystems and AI-native platforms from the ground up. I bridge the gap between cutting-edge technology (LLMs, RAG) and reliable, enterprise-grade production.
 
-- 💼 Currently working on full-stack development and game creation
-- 💬 Ask me about **Technical Documentation, Front-End Development, Music & Chess**
-- ❤️ I love contributing and collaborating on open-source projects
-- 🌊 When not coding: Diving in the Mediterranean or sailing on the Aegean Sea
+- 🏗️ Currently architecting GenAI ecosystems and complex microservices.
+- 🤖 Deeply focused on **Agentic AI, Advanced RAG Pipelines**, and solving LLM hallucination problems.
+- ⚡ Expert in high-throughput backend systems using **Node.js, Python, Go, and Rust**.
+- 🌍 Open to **Global Relocation, On-site, or B2B Contractor roles** (US LLC / TR entities).
+- 🌊 When I'm offline: Diving in the Mediterranean, sailing the Aegean, or playing chess.
 
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://hasanmahira.github.io/"><img src="https://img.shields.io/badge/website-hasanmahira.github.io-green?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:developwithmahir@gmail.com"><img src="https://img.shields.io/badge/email-developwithmahir@gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hasan-mahir-ates/"><img src="https://img.shields.io/badge/linkedin-hasan--mahir--ates-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/developwithma"><img src="https://img.shields.io/badge/twitter-developwithma-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://matesh.dev"><img src="https://img.shields.io/badge/Portfolio-matesh.dev-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
+<a href="mailto:hello@matesh.dev"><img src="https://img.shields.io/badge/Email-hello@matesh.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hasan-mahir-ates/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-## 🛠️ Tech Stack
+## 🛠️ The Tech Stack
 
-**Languages:**
+**Architecture & AI:**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/LLMs_%26_RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Frontend:**
+**Core Backend:**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_.NET-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Backend & Mobile:**
+**Data & Infrastructure:**
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-**Database:**
-
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanmahira&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanmahira&theme=dark&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideLabels=E0E0E0&dates=E0E0E0&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
-## 🏆 GitHub Achievements
+## 🎯 Focus Areas & Projects
 
-- 🎯 **Quickdraw** - Fast responder to issues
-- 🎲 **YOLO** - Merged a pull request without review
-- 🦈 **Pull Shark (×2)** - Significant pull request contributions
+- 🧠 **Trustworthy AI:** Solving LLM hallucinations by integrating strict fact-checking pipelines into enterprise backends.
+- 🏎️ **Performance Optimization:** Sharding databases and migrating heavy monolithic APIs to distributed, event-driven architectures.
+- 🕹️ *Legacy:* Occasionally stepping back into game development (Unreal Engine/C++) for high-performance deterministic networking.
 
-## 🎯 Featured Projects
-
-- 🎮 **ShootARoundKO** - Game development project in C++
-- 🚗 **AdessoRideShare** - Ride-sharing application in C#
-- 🎬 **movie-fan** - Movie application built with Ruby
-- 🏆 **leaderboard** - Gaming leaderboard application
-- 🏗️ **Be_NestJS** - Backend project using NestJS framework
-
-## 🌴 Beyond Coding
-
-When I'm not coding or writing technical documentation:
-- 🤿 Diving in the Mediterranean Sea
-- ⛵ Sailing with my team on the Aegean Sea
-- 🎵 Enjoying music
-- ♟️ Playing chess
-
----
+<br>
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>"Building systems that scale, not just code that runs."</i>
 </p>
