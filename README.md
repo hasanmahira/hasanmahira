@@ -2,7 +2,7 @@
 
 <img align='right' src="/me.jpg" width="350" alt="Hasan Mahir Ates">
 
-### Senior Software Engineer & Backend Architect | AI & Microservices
+### Senior Software Engineer | Backend & Distributed Systems | AI & RAG
 
 ![](https://komarev.com/ghpvc/?username=hasanmahira&style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/developwithma?style=social)](https://twitter.com/developwithma)
@@ -10,13 +10,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Founding Senior Software Engineer & Backend Architect**, specializing in building high-scale SaaS ecosystems and AI-native platforms from the ground up. I bridge the gap between cutting-edge technology (LLMs, RAG) and reliable, enterprise-grade production.
+I'm a **Senior Software Engineer** with 7 years of experience building backend and distributed systems across defense, IoT, data governance, and gaming.
 
-- 🏗️ Currently architecting GenAI ecosystems and complex microservices.
-- 🤖 Deeply focused on **Agentic AI, Advanced RAG Pipelines**, and solving LLM hallucination problems.
-- ⚡ Expert in high-throughput backend systems using **Node.js, Python, Go, and Rust**.
-- 🌍 Open to **Global Relocation, On-site, or B2B Contractor roles** (US LLC / TR entities).
-- 🌊 When I'm offline: Diving in the Mediterranean, sailing the Aegean, or playing chess.
+- 🏗️ Currently at **Sports Digitale**, designing the microservices foundation for AI-native sports products — RAG pipelines, LLM grounding, and panoramic computer vision (PanoramaML).
+- 🤖 Focused on **backend systems, RAG pipelines, and LLM grounding**.
+- ⚡ Polyglot across **Python (FastAPI), Node.js, C# (.NET Core), and Go**, with production experience on Kubernetes, Kafka, RabbitMQ, PostgreSQL, and MongoDB.
+- 🌍 Available for **senior/staff remote roles (EU/US preferred)** and open to **relocation**. B2B engagements available via **Fabula Labs, LLC** (Delaware).
+- 🌊 Offline: diving in the Mediterranean, sailing the Aegean, or playing chess.
 
 ## 📫 Connect With Me
 
@@ -28,30 +28,34 @@ I'm a **Founding Senior Software Engineer & Backend Architect**, specializing in
 
 ## 🛠️ The Tech Stack
 
-**Architecture & AI:**
+**Expert (daily work, production):**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/LLMs_%26_RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(FastAPI)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_.NET_Core-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Core Backend:**
+**Production Experience:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/C%23_.NET-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Data & Infrastructure:**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Working Knowledge:**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG_(LangChain)-1C3C3C?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -59,11 +63,12 @@ I'm a **Founding Senior Software Engineer & Backend Architect**, specializing in
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanmahira&theme=dark&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideLabels=E0E0E0&dates=E0E0E0&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
-## 🎯 Focus Areas & Projects
+## 🎯 Focus Areas
 
-- 🧠 **Trustworthy AI:** Solving LLM hallucinations by integrating strict fact-checking pipelines into enterprise backends.
-- 🏎️ **Performance Optimization:** Sharding databases and migrating heavy monolithic APIs to distributed, event-driven architectures.
-- 🕹️ *Legacy:* Occasionally stepping back into game development (Unreal Engine/C++) for high-performance deterministic networking.
+- 🧠 **RAG & LLM Grounding:** Building strict fact-checking pipelines that verify LLM answers against source-of-truth data before they reach users.
+- 🏗️ **Backend & Distributed Systems:** Microservices on Kubernetes with PostgreSQL, MongoDB, RabbitMQ, and Kafka.
+- 🎥 **Computer Vision for Sports (PanoramaML):** Panoramic pipelines and pose estimation for biomechanical analytics.
+- 🕹️ **Games (side track):** Occasionally returning to Unreal Engine (C++) for multiplayer systems.
 
 <br>
 
