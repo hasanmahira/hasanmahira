@@ -1,77 +1,44 @@
-# Hi there 👋 I'm Hasan Mahir ATEŞ (Mahir)
+# Hasan Mahir Ateş
 
-<img align='right' src="/me.jpg" width="350" alt="Hasan Mahir Ates">
+### Backend & AI Systems Architect
+Production RAG/LLM systems · distributed backends · 7+ years
 
-### Senior Software Engineer | Backend & Distributed Systems | AI & RAG
+[matesh.dev](https://matesh.dev) · [hello@matesh.dev](mailto:hello@matesh.dev) · [LinkedIn](https://www.linkedin.com/in/hasan-mahir-ates/)
 
-![](https://komarev.com/ghpvc/?username=hasanmahira&style=flat-square)
-[![Twitter Follow](https://img.shields.io/twitter/follow/developwithma?style=social)](https://twitter.com/developwithma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/hasan-mahir-ates/)
+## About
 
-## 👨‍💻 About Me
+I design and build backend and AI systems — from architecture through implementation to production operations. Over 7 years I have shipped distributed systems across defense, IoT, data governance and fintech.
 
-I'm a **Senior Software Engineer** with 7 years of experience building backend and distributed systems across defense, IoT, data governance, and gaming.
+- **Sports Digitale** — Software Engineer (AI & SaaS Platforms). Building the shared microservices foundation for AI-native sports products: Node.js for orchestration, Python (FastAPI) for ML workloads, RAG and LLM integration, computer-vision backends.
+- **Fabula Labs, LLC** (Delaware) — Founder & Principal Architect. My own products and B2B engagements.
 
-- 🏗️ Currently at **Sports Digitale**, designing the microservices foundation for AI-native sports products — RAG pipelines, LLM grounding, and panoramic computer vision (PanoramaML).
-- 🤖 Focused on **backend systems, RAG pipelines, and LLM grounding**.
-- ⚡ Polyglot across **Python (FastAPI), Node.js, C# (.NET Core), and Go**, with production experience on Kubernetes, Kafka, RabbitMQ, PostgreSQL, and MongoDB.
-- 🌍 Available for **senior/staff remote roles (EU/US preferred)** and open to **relocation**. B2B engagements available via **Fabula Labs, LLC** (Delaware).
-- 🌊 Offline: diving in the Mediterranean, sailing the Aegean, or playing chess.
+## Work with me
 
-## 📫 Connect With Me
+- **B2B contracts** through Fabula Labs, LLC — W-9, MSA, invoicing in USD.
+- **US hours:** reliable overlap with US Eastern business hours (09:00–17:00 ET).
+- Also open to **full-time senior/staff roles** and to relocation.
 
-<p align="center">
-<a href="https://matesh.dev"><img src="https://img.shields.io/badge/Portfolio-matesh.dev-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
-<a href="mailto:hello@matesh.dev"><img src="https://img.shields.io/badge/Email-hello@matesh.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hasan-mahir-ates/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+## Selected work
 
-## 🛠️ The Tech Stack
+- **[RagMarks](https://ragmarks.com)** — AI-powered search over your saved X bookmarks. Retrieval-augmented answers with LangChain and MongoDB Atlas Vector Search.
 
-**Expert (daily work, production):**
+More case studies on **[matesh.dev](https://matesh.dev)**.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python_(FastAPI)-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23_.NET_Core-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Tech stack
 
-**Production Experience:**
+| | |
+|---|---|
+| **Expert** | TypeScript · Python (FastAPI) · PostgreSQL · Docker |
+| **Production** | Node.js · Go · C# (.NET) · Kubernetes · Redis · RabbitMQ · MongoDB · React · AWS · GCP |
+| **Working knowledge** | Rust · C++ · Kafka · Elasticsearch · RAG (LangChain) |
+| **Currently learning** | LlamaIndex · Pinecone · Weaviate |
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+**Languages:** Turkish (native) · English (C1, professional working proficiency)
 
-**Working Knowledge:**
+## Focus areas
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![LangChain](https://img.shields.io/badge/RAG_(LangChain)-1C3C3C?style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+- **RAG & LLM grounding** — pipelines that check LLM answers against source-of-truth data before they reach users.
+- **Backend & distributed systems** — microservices on Kubernetes with PostgreSQL, MongoDB and RabbitMQ.
+- **Computer vision for sports analytics** — pose estimation and high-resolution video pipelines.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanmahira&theme=dark&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideLabels=E0E0E0&dates=E0E0E0&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-## 🎯 Focus Areas
-
-- 🧠 **RAG & LLM Grounding:** Building strict fact-checking pipelines that verify LLM answers against source-of-truth data before they reach users.
-- 🏗️ **Backend & Distributed Systems:** Microservices on Kubernetes with PostgreSQL, MongoDB, RabbitMQ, and Kafka.
-- 🎥 **Computer Vision for Sports (PanoramaML):** Panoramic pipelines and pose estimation for biomechanical analytics.
-- 🕹️ **Games (side track):** Occasionally returning to Unreal Engine (C++) for multiplayer systems.
-
-<br>
-
-<p align="center">
-  <i>"Building systems that scale, not just code that runs."</i>
-</p>
+Side projects: multiplayer game systems in Unreal Engine (C++).
