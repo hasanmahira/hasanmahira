@@ -20,7 +20,7 @@ I design and build backend and AI systems — from architecture through implemen
 
 ## Selected work
 
-- **[RagMarks](https://ragmarks.com)** — AI-powered search over your saved X bookmarks. Retrieval-augmented answers with LangChain and MongoDB Atlas Vector Search.
+- **[Aurelia](https://aurelia.fabulalabs.net)** — AI selfie analysis mobile app: reveals your aura color from a single photo. Flutter (iOS & Android), Supabase backend, subscription billing via Adapty, automated store releases with fastlane. [App Store](https://apps.apple.com/app/id6791504746) · [Google Play](https://play.google.com/store/apps/details?id=net.fabulalabs.aurelia)
 
 More case studies on **[matesh.dev](https://matesh.dev)**.
 
