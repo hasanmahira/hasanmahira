@@ -21,6 +21,7 @@ I design and build backend and AI systems — from architecture through implemen
 ## Selected work
 
 - **[Aurelia](https://aurelia.fabulalabs.net)** — AI selfie analysis mobile app: reveals your aura color from a single photo. Flutter (iOS & Android), Supabase backend, subscription billing via RevenueCat, automated store releases with fastlane. [App Store](https://apps.apple.com/app/id6791504746) · [Google Play](https://play.google.com/store/apps/details?id=net.fabulalabs.aurelia)
+- **[notifd](https://github.com/hasanmahira/notifd)** — Open-source, event-driven notification delivery service in Go: async priority queues (Asynq + Redis), 100 msg/s per-channel rate limiting, idempotency, retries with dead-letter queue, circuit breaker, real-time status over WebSocket, OpenAPI docs, Docker Compose.
 
 More case studies on **[matesh.dev](https://matesh.dev)**.
 
