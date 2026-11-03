@@ -25,6 +25,10 @@ I design and build backend and AI systems — from architecture through implemen
 
 More case studies on **[matesh.dev](https://matesh.dev)**.
 
+## Open source contributions
+
+- **[tRPC](https://github.com/trpc/trpc)** — [docs: document content-type mapping and link compatibility (#7619)](https://github.com/trpc/trpc/pull/7619) · merged. How the HTTP adapter picks a content-type handler, the 405/415 responses, and which links can send FormData and binary inputs.
+
 ## Tech stack
 
 | | |
